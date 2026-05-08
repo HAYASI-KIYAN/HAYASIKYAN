@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/badge/blog-white?style=for-the-badge&logo=naver&logoColor=03A94D"></a>
 
-<img src="https://img.shields.io/badge/blog-03A94D?style=flat-square&logo=naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-03A94D?style=flat-square&logo=naver&logoColor=white"/>
